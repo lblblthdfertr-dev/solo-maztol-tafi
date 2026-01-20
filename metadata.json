@@ -1,0 +1,7 @@
+{
+  "name": "Matrix AI Terminal",
+  "description": "A high-security Matrix-themed terminal powered by Gemini, featuring web-grounded search and AI-driven image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
